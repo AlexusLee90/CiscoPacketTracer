@@ -1,0 +1,35 @@
+Cisco Packet Tracer
+
+Part 1/Step 1:
+a) "Show interfaces"
+b) "Show interface serial 0/0/0"
+c) 
+	1) 192.168.10.1
+	2) 209.265.200.224
+d) 
+	1) 192.168.11.1
+	2) 255.255.255.0
+
+Step 2:
+	a) "Show Ip Interface Brief"
+	b)
+		1) 4
+		2) 2
+		3) Yes
+
+Step 3:
+a) "Show ip Route"
+b) 
+	1) 0
+	2) 
+
+Part 2:
+
+a) 
+	1) 209.165. 200. 225/226
+	2) 
+
+Part 3:
+
+b)
+	1)
